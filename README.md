@@ -1,4 +1,4 @@
-# Issue Tracker [Hosted link!](http://13.53.206.113:7100)
+# Issue Tracker [Hosted link!](https://issue-tracker-o75s.onrender.com)
 
 ---
 
